@@ -19,6 +19,12 @@ public:
     int pokaz(int x, int y) const;
     matrix& odwroc();
     matrix& losuj();
+    matrix& losuj(int x);
+    matrix& diagonalna(int* t);
+    matrix& diagonalna_k(int k, int* t);
+    matrix& kolumna(int x, int* t);
+    matrix& wiersz(int y, int* t);
+
     matrix& ustal(int* t);
     matrix& zero();
 };

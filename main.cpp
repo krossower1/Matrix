@@ -8,8 +8,8 @@
 using namespace std;
 
 int main() {
-    int n = 15;
-    int arr[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+    int n = 35;
+    int arr[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30};
     matrix A(n);
     matrix B;
     matrix C(n, arr);
@@ -57,12 +57,54 @@ int main() {
     }
     cout << "...\n";
 
-    cout << "Transpozycja A (pierwsze 4x4):\n";
+    cout << "Transpozycja A (fragment):\n";
     A.odwroc();
-    for (int i = 0; i < std::min(4, n); ++i) {
-        for (int j = 0; j < std::min(4, n); ++j) cout << std::setw(4) << A.pokaz(i, j);
+    for (int i = 0; i < std::min(8, n); ++i) {
+        for (int j = 0; j < std::min(8, n); ++j) cout << std::setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
+
+    C.losuj(30);
+
+    cout << "Macierz C po losowaniu (fragment):\n";
+    for (int i = 0; i < std::min(8, n); ++i) {
+        for (int j = 0; j < std::min(8, n); ++j) {
+            cout << std::setw(3) << C.pokaz(i, j);
+        }
+        cout << '\n';
+    }
+    cout << "...\n";
+
+    D.diagonalna(arr);
+
+    cout << "Macierz D po diag (fragment):\n";
+    for (int i = 0; i < std::min(8, n); ++i) {
+        for (int j = 0; j < std::min(8, n); ++j) {
+            cout << std::setw(3) << D.pokaz(i, j);
+        }
+        cout << '\n';
+    }
+    cout << "...\n";
+
+    D.diagonalna_k(-2, arr);
+
+    cout << "Macierz D po diag z przesunieciem (fragment):\n";
+    for (int i = 0; i < std::min(8, n); ++i) {
+        for (int j = 0; j < std::min(8, n); ++j) {
+            cout << std::setw(3) << D.pokaz(i, j);
+        }
+        cout << '\n';
+    }
+
+    std::vector<int> col(n, 7);
+    D.kolumna(2, col.data());
+    std::vector<int> row(n, 9);
+    D.wiersz(0, row.data());
+    cout << "D po wstawieniu kolumny i wiersza (fragment):\n";
+    for (int i = 0; i < 8; ++i) {
+        for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
+        cout << '\n';
+    }
     return 0;
 }
