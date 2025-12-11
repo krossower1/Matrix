@@ -14,9 +14,10 @@ int main() {
     matrix B;
     matrix C(n, arr);
     matrix D(C);
+    matrix E(n);
     B.alokuj(n);
 
-    cout << "Tworzenie i wype³nianie macierzy losowymi cyframi (0-9), wstawienie 11 na [0,0]\n";
+    cout << "Tworzenie i wypelnianie macierzy losowymi cyframi (0-9), wstawienie 11 na [0,0]\n";
     A.losuj();
     B.losuj();
     A.wstaw(0, 0, 11);
@@ -96,6 +97,7 @@ int main() {
         }
         cout << '\n';
     }
+    cout << "...\n";
 
     std::vector<int> col(n, 7);
     D.kolumna(2, col.data());
@@ -104,6 +106,44 @@ int main() {
     cout << "D po wstawieniu kolumny i wiersza (fragment):\n";
     for (int i = 0; i < 8; ++i) {
         for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
+        cout << '\n';
+    }
+    cout << "...\n";
+
+    D.przekatna();
+    cout << "D po przekatna (fragment):\n";
+    for (int i = 0; i < 8; ++i) {
+        for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
+        cout << '\n';
+    }
+    cout << "...\n";
+
+    D.pod_przekatna();
+    cout << "D po pod_przekatna (fragment):\n";
+    for (int i = 0; i < 8; ++i) {
+        for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
+        cout << '\n';
+    }
+    cout << "...\n";
+
+    D.nad_przekatna();
+    cout << "D po nad_przekatna (fragment):\n";
+    for (int i = 0; i < 8; ++i) {
+        for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
+        cout << '\n';
+    }
+    cout << "...\n";
+
+    D.szachownica();
+    cout << "D po scachownica (fragment):\n";
+    for (int i = 0; i < 8; ++i) {
+        for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
+        cout << '\n';
+    }
+
+    cout << "Suma A i B (fragment):\n";
+    for (int i = 0; i < 8; ++i) {
+        for (int j = 0; j < 8; ++j) cout << std::setw(3) << (A + B).pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";

@@ -24,9 +24,13 @@ public:
     matrix& diagonalna_k(int k, int* t);
     matrix& kolumna(int x, int* t);
     matrix& wiersz(int y, int* t);
-
+    matrix& przekatna();
+    matrix& pod_przekatna();
+    matrix& nad_przekatna();
+    matrix& szachownica();
     matrix& ustal(int* t);
     matrix& zero();
+    matrix operator+(const matrix& m) const;
 };
 
 #endif
