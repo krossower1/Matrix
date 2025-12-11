@@ -58,10 +58,11 @@ int main() {
     cout << "...\n";
 
     cout << "Transpozycja A (pierwsze 4x4):\n";
-    A.dowroc();
+    A.odwroc();
     for (int i = 0; i < std::min(4, n); ++i) {
         for (int j = 0; j < std::min(4, n); ++j) cout << std::setw(4) << A.pokaz(i, j);
         cout << '\n';
     }
+    cout << "...\n";
     return 0;
 }

@@ -17,9 +17,9 @@ public:
     matrix& alokuj(int n);
     matrix& wstaw(int x, int y, int wartosc);
     int pokaz(int x, int y) const;
-    matrix& dowroc();
+    matrix& odwroc();
     matrix& losuj();
-    matrix& set_from_array(int* t);
+    matrix& ustal(int* t);
     matrix& zero();
 };
 
