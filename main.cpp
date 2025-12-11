@@ -16,7 +16,7 @@ int main() {
     matrix D(C);
     B.alokuj(n);
 
-    cout << "Tworzenie i wype³nianie macierzy losowymi cyframi (0-9), wstawienie 11 na [0,0]\n";
+    cout << "Tworzenie i wypeÂ³nianie macierzy losowymi cyframi (0-9), wstawienie 11 na [0,0]\n";
     A.losuj();
     B.losuj();
     A.wstaw(0, 0, 11);
@@ -106,5 +106,6 @@ int main() {
         for (int j = 0; j < 8; ++j) cout << std::setw(3) << D.pokaz(i, j);
         cout << '\n';
     }
+    cout << "...\n";
     return 0;
 }
