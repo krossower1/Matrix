@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator(wpisana liczba).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\nad_przekatna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorxa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\losuj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator--(inkr).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002Ba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\diagonalna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-(fr).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B\u002B(inkr).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\odwroc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorx(fr).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B(fr).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\losuj_x.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorxx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\pod_przekatna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\zero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\przekatna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\szachownica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\ustal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\wiersz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\wstaw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\pokaz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\kolumna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\diagonalna_k.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9D38A6-98C5-4CAD-9B0A-91C2B84FEEEB}|ConsoleApplication1.vcxproj|C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\alokuj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operator(wpisana liczba).cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator(wpisana liczba).cpp",
+              "RelativeDocumentMoniker": "..\\operator(wpisana liczba).cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator(wpisana liczba).cpp*",
+              "RelativeToolTip": "..\\operator(wpisana liczba).cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:35:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "operator-a.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-a.cpp",
+              "RelativeDocumentMoniker": "..\\operator-a.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-a.cpp",
+              "RelativeToolTip": "..\\operator-a.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:30:16.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAYwEYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:11:46.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "matrix.h",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\matrix.h",
+              "RelativeDocumentMoniker": "..\\matrix.h",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\matrix.h",
+              "RelativeToolTip": "..\\matrix.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-16T07:38:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nad_przekatna.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\nad_przekatna.cpp",
+              "RelativeDocumentMoniker": "..\\nad_przekatna.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\nad_przekatna.cpp",
+              "RelativeToolTip": "..\\nad_przekatna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:15:55.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "operatorxa.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorxa.cpp",
+              "RelativeDocumentMoniker": "..\\operatorxa.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorxa.cpp",
+              "RelativeToolTip": "..\\operatorxa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:33:08.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "diagonalna.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\diagonalna.cpp",
+              "RelativeDocumentMoniker": "..\\diagonalna.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\diagonalna.cpp",
+              "RelativeToolTip": "..\\diagonalna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:05.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "losuj.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\losuj.cpp",
+              "RelativeDocumentMoniker": "..\\losuj.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\losuj.cpp",
+              "RelativeToolTip": "..\\losuj.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:25.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "operator--(inkr).cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator--(inkr).cpp",
+              "RelativeDocumentMoniker": "..\\operator--(inkr).cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator--(inkr).cpp",
+              "RelativeToolTip": "..\\operator--(inkr).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:23:56.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "operator\u002Ba.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002Ba.cpp",
+              "RelativeDocumentMoniker": "..\\operator\u002Ba.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002Ba.cpp",
+              "RelativeToolTip": "..\\operator\u002Ba.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:27:41.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "matrix.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\matrix.cpp",
+              "RelativeDocumentMoniker": "..\\matrix.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\matrix.cpp",
+              "RelativeToolTip": "..\\matrix.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:15:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "operator-(fr).cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-(fr).cpp",
+              "RelativeDocumentMoniker": "..\\operator-(fr).cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-(fr).cpp",
+              "RelativeToolTip": "..\\operator-(fr).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:15:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "operator\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B.cpp",
+              "RelativeDocumentMoniker": "..\\operator\u002B.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B.cpp",
+              "RelativeToolTip": "..\\operator\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:19:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "operator\u002B\u002B(inkr).cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B\u002B(inkr).cpp",
+              "RelativeDocumentMoniker": "..\\operator\u002B\u002B(inkr).cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B\u002B(inkr).cpp",
+              "RelativeToolTip": "..\\operator\u002B\u002B(inkr).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:18:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "operator\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "..\\operator\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B\u002B.cpp",
+              "RelativeToolTip": "..\\operator\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:55:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "odwroc.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\odwroc.cpp",
+              "RelativeDocumentMoniker": "..\\odwroc.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\odwroc.cpp",
+              "RelativeToolTip": "..\\odwroc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:20:38.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "operator-.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-.cpp",
+              "RelativeDocumentMoniker": "..\\operator-.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator-.cpp",
+              "RelativeToolTip": "..\\operator-.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:02:57.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "operatorx(fr).cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorx(fr).cpp",
+              "RelativeDocumentMoniker": "..\\operatorx(fr).cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorx(fr).cpp",
+              "RelativeToolTip": "..\\operatorx(fr).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:09:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "operator\u002B(fr).cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B(fr).cpp",
+              "RelativeDocumentMoniker": "..\\operator\u002B(fr).cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operator\u002B(fr).cpp",
+              "RelativeToolTip": "..\\operator\u002B(fr).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:06:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "operatorx.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorx.cpp",
+              "RelativeDocumentMoniker": "..\\operatorx.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorx.cpp",
+              "RelativeToolTip": "..\\operatorx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:35:31.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "losuj_x.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\losuj_x.cpp",
+              "RelativeDocumentMoniker": "..\\losuj_x.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\losuj_x.cpp",
+              "RelativeToolTip": "..\\losuj_x.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:27.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "operatorxx.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorxx.cpp",
+              "RelativeDocumentMoniker": "..\\operatorxx.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\operatorxx.cpp",
+              "RelativeToolTip": "..\\operatorxx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T08:00:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "pod_przekatna.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\pod_przekatna.cpp",
+              "RelativeDocumentMoniker": "..\\pod_przekatna.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\pod_przekatna.cpp",
+              "RelativeToolTip": "..\\pod_przekatna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:18:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "zero.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\zero.cpp",
+              "RelativeDocumentMoniker": "..\\zero.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\zero.cpp",
+              "RelativeToolTip": "..\\zero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:47.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "przekatna.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\przekatna.cpp",
+              "RelativeDocumentMoniker": "..\\przekatna.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\przekatna.cpp",
+              "RelativeToolTip": "..\\przekatna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:18:18.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "szachownica.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\szachownica.cpp",
+              "RelativeDocumentMoniker": "..\\szachownica.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\szachownica.cpp",
+              "RelativeToolTip": "..\\szachownica.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:19:04.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ustal.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\ustal.cpp",
+              "RelativeDocumentMoniker": "..\\ustal.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\ustal.cpp",
+              "RelativeToolTip": "..\\ustal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:46.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "wiersz.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\wiersz.cpp",
+              "RelativeDocumentMoniker": "..\\wiersz.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\wiersz.cpp",
+              "RelativeToolTip": "..\\wiersz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:16:08.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "wstaw.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\wstaw.cpp",
+              "RelativeDocumentMoniker": "..\\wstaw.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\wstaw.cpp",
+              "RelativeToolTip": "..\\wstaw.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:16:06.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "pokaz.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\pokaz.cpp",
+              "RelativeDocumentMoniker": "..\\pokaz.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\pokaz.cpp",
+              "RelativeToolTip": "..\\pokaz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:16:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "kolumna.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\kolumna.cpp",
+              "RelativeDocumentMoniker": "..\\kolumna.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\kolumna.cpp",
+              "RelativeToolTip": "..\\kolumna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:20.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "diagonalna_k.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\diagonalna_k.cpp",
+              "RelativeDocumentMoniker": "..\\diagonalna_k.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\diagonalna_k.cpp",
+              "RelativeToolTip": "..\\diagonalna_k.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:14:11.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "alokuj.cpp",
+              "DocumentMoniker": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\alokuj.cpp",
+              "RelativeDocumentMoniker": "..\\alokuj.cpp",
+              "ToolTip": "C:\\Users\\mchoc\\Documents\\GitHub\\Matrix\\alokuj.cpp",
+              "RelativeToolTip": "..\\alokuj.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T07:13:51.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

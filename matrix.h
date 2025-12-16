@@ -9,6 +9,7 @@ private:
     std::unique_ptr<int[]> data_;
     inline int idx(int x, int y) const { return x * n_ + y; }
 public:
+    int rozmiar() const { return n_; }
     matrix();
     matrix(int n);
     matrix(int n, int* t);
@@ -31,6 +32,20 @@ public:
     matrix& ustal(int* t);
     matrix& zero();
     matrix operator+(const matrix& m) const;
+    matrix operator*(matrix& m);
+    matrix operator+(int a) const;
+    matrix operator*(int a) const;
+    matrix operator-(int a) const;
+    friend matrix operator+(int a, const matrix& m);
+    friend matrix operator*(int a, const matrix& m);
+    friend matrix operator-(int a, const matrix& m);
+    matrix operator++(int); // postinkrementacja
+    matrix operator--(int); // postdekrementacja
+    matrix& operator+=(int a);
+    matrix& operator-=(int a);
+    matrix& operator*=(int a);
+    matrix& operator()(double a);
+
 };
 
 #endif
