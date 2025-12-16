@@ -1,0 +1,36 @@
+﻿  alokuj.cpp
+  diagonalna.cpp
+  diagonalna_k.cpp
+  kolumna.cpp
+  losuj.cpp
+  losuj_x.cpp
+  main.cpp
+  matrix.cpp
+  nad_przekatna.cpp
+  odwroc.cpp
+  operator(wpisana liczba).cpp
+  operator+(fr).cpp
+  operator++(inkr).cpp
+  operator++.cpp
+  operator+.cpp
+  operator+a.cpp
+  operator-(fr).cpp
+  operator--(inkr).cpp
+  operator-.cpp
+  operator-a.cpp
+  Generowanie kodu...
+  Trwa kompilowanie...
+  operatorx(fr).cpp
+  operatorx.cpp
+  operatorxa.cpp
+  operatorxx.cpp
+  pod_przekatna.cpp
+  pokaz.cpp
+  przekatna.cpp
+  szachownica.cpp
+  ustal.cpp
+  wiersz.cpp
+  wstaw.cpp
+  zero.cpp
+  Generowanie kodu...
+  ConsoleApplication1.vcxproj -> C:\Users\mchoc\Documents\GitHub\Matrix\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
