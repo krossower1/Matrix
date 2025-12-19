@@ -39,12 +39,16 @@ public:
     friend matrix operator+(int a, const matrix& m);
     friend matrix operator*(int a, const matrix& m);
     friend matrix operator-(int a, const matrix& m);
-    matrix operator++(int); // postinkrementacja
-    matrix operator--(int); // postdekrementacja
+    matrix operator++(int);
+    matrix operator--(int);
     matrix& operator+=(int a);
     matrix& operator-=(int a);
     matrix& operator*=(int a);
     matrix& operator()(double a);
+    friend std::ostream& operator<<(std::ostream& o, const matrix& m);
+    bool operator==(const matrix& m) const;
+    bool operator>(const matrix& m) const;
+    bool operator<(const matrix& m) const;
 
 };
 
