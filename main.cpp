@@ -149,71 +149,71 @@ int main() {
     cout << "...\n";
 
     cout << "Mnozenie A i B (fragment):\n";
-    matrix F = A * B;  // operator* zwraca now¹ macierz
+    matrix F = A * B;
     for (int i = 0; i < std::min(8, F.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, F.rozmiar()); ++j) {
-            cout << setw(5) << F.pokaz(i, j);
+            cout << setw(4) << F.pokaz(i, j);
         }
         cout << '\n';
     }
     cout << "...\n";
 
     cout << "Macierz A po dodaniu 5 (fragment):\n";
-    matrix G = A;      // kopiujemy A, ¿eby nie zmieniaæ orygina³u
-    G + 5;             // dodanie liczby
+    matrix G = A;     
+    G + 5;             
     for (int i = 0; i < std::min(8, G.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, G.rozmiar()); ++j) {
-            cout << setw(5) << G.pokaz(i, j);
+            cout << setw(3) << G.pokaz(i, j);
         }
         cout << '\n';
     }
     cout << "...\n";
 
     cout << "Macierz A po mnozeniu przez 3 (fragment):\n";
-    matrix H = A * 3;  // tworzymy now¹ macierz
+    matrix H = A * 3; 
     for (int i = 0; i < std::min(8, H.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, H.rozmiar()); ++j) {
-            cout << setw(5) << H.pokaz(i, j);
+            cout << setw(3) << H.pokaz(i, j);
         }
         cout << '\n';
     }
     cout << "...\n";
 
     cout << "Macierz A po odjêciu 2 (fragment):\n";
-    matrix I = A - 2;  // tworzymy now¹ macierz
+    matrix I = A - 2;
     for (int i = 0; i < std::min(8, I.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, I.rozmiar()); ++j) {
-            cout << setw(5) << I.pokaz(i, j);
+            cout << setw(3) << I.pokaz(i, j);
         }
         cout << '\n';
     }
     cout << "...\n";
 
     cout << "5 + Macierz A (fragment):\n";
-    matrix J = 5 + A;  // u¿ycie operatora friend
+    matrix J = 5 + A; 
     for (int i = 0; i < std::min(8, J.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, J.rozmiar()); ++j) {
-            cout << setw(5) << J.pokaz(i, j);
+            cout << setw(3) << J.pokaz(i, j);
         }
         cout << '\n';
     }
     cout << "...\n";
 
     cout << "3 * Macierz A (fragment):\n";
-    matrix K = 3 * A;  // u¿ycie operatora friend
+    matrix K = 3 * A; 
     for (int i = 0; i < std::min(8, K.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, K.rozmiar()); ++j) {
-            cout << setw(5) << K.pokaz(i, j);
+            cout << setw(3) << K.pokaz(i, j);
         }
         cout << '\n';
     }
     cout << "...\n";
 
     cout << "10 - Macierz A (fragment):\n";
-    matrix L = 10 - A;  // u¿ycie operatora friend
+    matrix L = 10 - A; 
     for (int i = 0; i < std::min(8, L.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, L.rozmiar()); ++j) {
-            cout << setw(5) << L.pokaz(i, j);
+            cout << setw(3) << L.pokaz(i, j);
         }
         cout << '\n';
     }
@@ -222,16 +222,16 @@ int main() {
     cout << "Macierz A przed A++ (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
 
-    matrix M = A++;  // postinkrementacja
+    matrix M = A++; 
     cout << "Macierz A po A++ (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
@@ -239,16 +239,16 @@ int main() {
     cout << "Macierz A przed A-- (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
 
-    A--;  // zmniejszamy wszystkie elementy A o 1
+    A--; 
     cout << "Macierz A po A-- (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
@@ -256,17 +256,17 @@ int main() {
     cout << "Macierz A przed A += 3 (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
 
-    A += 3;  // zwiêkszamy wszystkie elementy o 3
+    A += 3; 
 
     cout << "Macierz A po A += 3 (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
@@ -274,17 +274,17 @@ int main() {
     cout << "Macierz A przed A -= 2 (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
 
-    A -= 2;  // zmniejszamy wszystkie elementy o 2
+    A -= 2;
 
     cout << "Macierz A po A -= 2 (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
@@ -292,17 +292,17 @@ int main() {
     cout << "Macierz A przed A *= 3 (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
 
-    A *= 3;  // mno¿ymy wszystkie elementy przez 3
+    A *= 3;
 
     cout << "Macierz A po A *= 3 (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
@@ -310,19 +310,26 @@ int main() {
     cout << "Macierz A przed A(2.7) (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
 
-    A(2.7);  // zwiêkszamy wszystkie elementy o 2 (czêœæ ca³kowita)
+    A(2.7);
 
     cout << "Macierz A po A(2.7) (fragment):\n";
     for (int i = 0; i < std::min(8, A.rozmiar()); ++i) {
         for (int j = 0; j < std::min(8, A.rozmiar()); ++j)
-            cout << setw(5) << A.pokaz(i, j);
+            cout << setw(3) << A.pokaz(i, j);
         cout << '\n';
     }
     cout << "...\n";
-
+    cout << "Czy A == A ? - " << (A == B ? "tak" : "nie") << '\n';
+    cout << "Czy A == A ? - " << (A == A ? "tak" : "nie") << '\n';
+    cout << "Czy A > B ? - " << (A > B ? "tak" : "nie") << '\n';
+    cout << "Czy A < B ? - " << (A < B ? "tak" : "nie") << '\n';
+    cout << "...\n";
+    matrix X(15);
+    X.losuj();
+    cout << "Automatyczne wypisanie calego X - " << '\n' << X;
 }
