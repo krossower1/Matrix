@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Fills the matrix with ones above the diagonal
+*
+**/
+
 matrix& matrix::nad_przekatna() {
     if (!data_) return *this;
     zero();

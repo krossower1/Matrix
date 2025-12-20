@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Operator overloading for printing a whole matrix
+*
+**/
+
 std::ostream& operator<<(std::ostream& o, const matrix& m) {
     if (m.n_ == 0) {
         o << "(empty matrix)";

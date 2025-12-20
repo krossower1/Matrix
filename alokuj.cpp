@@ -7,6 +7,12 @@
 
 using namespace std;
 
+/**
+* @brief Allocate a matrix for the given size
+* @param The desired size
+*
+**/
+
 matrix& matrix::alokuj(int n) {
     if (n <= 0) return *this;
     if (!data_) {

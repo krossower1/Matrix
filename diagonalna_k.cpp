@@ -7,6 +7,13 @@
 
 using namespace std;
 
+/**
+* @brief Fill the diagonal with the values from the array at an offset line
+* @param The offset
+* @param The array to draw from
+*
+**/
+
 matrix& matrix::diagonalna_k(int k, int* t) {
     if (!data_) return *this;
     zero();

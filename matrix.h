@@ -3,6 +3,11 @@
 #include <memory>
 #include <iostream>
 
+/**
+* @brief The class that is responsible for the matrix
+*
+**/
+
 class matrix {
 private:
     int n_;

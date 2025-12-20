@@ -5,8 +5,13 @@
 #include <iomanip>
 #include <cstring>
 
+/**
+* @brief Operator overloading for multiplication
+*
+**/
+
 matrix matrix::operator*(matrix& m) {
-    assert(n_ == m.n_);  // mno¿enie mo¿liwe tylko dla macierzy tego samego rozmiaru
+    assert(n_ == m.n_);
     matrix res(n_);
     for (int i = 0; i < n_; ++i) {
         for (int j = 0; j < n_; ++j) {

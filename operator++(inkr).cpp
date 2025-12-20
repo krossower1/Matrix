@@ -5,10 +5,15 @@
 #include <iomanip>
 #include <cstring>
 
+/**
+* @brief Operator overloading for incrementation
+*
+**/
+
 matrix matrix::operator++(int) {
-    matrix temp(*this);  // kopia przed zwiêkszeniem
+    matrix temp(*this);
     for (int i = 0; i < n_ * n_; ++i) {
-        data_[i] += 1;    // zwiêkszamy orygina³
+        data_[i] += 1;
     }
-    return temp;          // zwracamy kopiê przed zmian¹
+    return temp;
 }

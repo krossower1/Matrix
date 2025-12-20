@@ -7,6 +7,10 @@
 
 using namespace std;
 
+/**
+* @brief Fills the matrix from the given array
+**/
+
 matrix& matrix::ustal(int* t) {
     if (!t || n_ <= 0) return *this;
     for (int i = 0; i < n_; ++i) {

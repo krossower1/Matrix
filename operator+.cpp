@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Operator overloading for addition
+*
+**/
+
 matrix matrix::operator+(const matrix& m) const {
     assert(n_ == m.n_);
     matrix res(n_);

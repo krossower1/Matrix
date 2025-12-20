@@ -7,6 +7,12 @@
 
 using namespace std;
 
+/**
+* @brief Fill the array with an amount of random numbers in random positions
+* @param The amount of numbers to fill
+*
+**/
+
 matrix& matrix::losuj(int x) {
     if (!data_ || x <= 0) return *this;
     int total = n_ * n_;
