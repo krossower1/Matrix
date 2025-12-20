@@ -7,6 +7,12 @@
 
 using namespace std;
 
+/**
+* @brief Fill the diagonal with the values from the array
+* @param The array to draw from
+*
+**/
+
 matrix& matrix::diagonalna(int* t) {
     if (!data_) return *this;
     zero();

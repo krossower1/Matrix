@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Clear the matrix
+*
+**/
+
 matrix& matrix::zero() {
     if (data_) {
         std::fill_n(data_.get(), n_ * n_, 0);

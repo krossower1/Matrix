@@ -7,6 +7,13 @@
 
 using namespace std;
 
+/**
+* @brief Draw a row within the matrix
+* @param The row number
+* @param The array to draw from
+*
+**/
+
 matrix& matrix::wiersz(int y, int* t) {
     if (!data_) return *this;
     assert(y >= 0 && y < n_);

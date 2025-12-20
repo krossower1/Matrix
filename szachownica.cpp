@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Fills the matrix with a checkerboard of ones and zeroes
+*
+**/
+
 matrix& matrix::szachownica() {
     if (!data_) return *this;
     for (int i = 0; i < n_; ++i) {

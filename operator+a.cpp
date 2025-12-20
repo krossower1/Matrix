@@ -5,9 +5,14 @@
 #include <iomanip>
 #include <cstring>
 
+/**
+* @brief Operator overloading for additive assigning
+*
+**/
+
 matrix& matrix::operator+=(int a) {
     for (int i = 0; i < n_ * n_; ++i) {
         data_[i] += a;
     }
-    return *this;  // zwracamy referencjê do aktualnego obiektu
+    return *this;
 }

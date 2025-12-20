@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Invert the matrix
+*
+**/
+
 matrix& matrix::odwroc() {
     if (!data_) return *this;
     for (int i = 0; i < n_; ++i) {

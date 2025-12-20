@@ -7,6 +7,13 @@
 
 using namespace std;
 
+/**
+* @brief Draw a column within the matrix
+* @param The column number
+* @param The array to draw from
+*
+**/
+
 matrix& matrix::kolumna(int x, int* t) {
     if (!data_) return *this;
     assert(x >= 0 && x < n_);

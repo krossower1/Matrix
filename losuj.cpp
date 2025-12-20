@@ -7,6 +7,11 @@
 
 using namespace std;
 
+/**
+* @brief Fill the matrix with random numbers
+*
+**/
+
 matrix& matrix::losuj() {
     if (!data_) return *this;
     std::random_device rd;

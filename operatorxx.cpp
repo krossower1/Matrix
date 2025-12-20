@@ -5,6 +5,11 @@
 #include <iomanip>
 #include <cstring>
 
+/**
+* @brief Operator overloading for multiplying with intigers
+*
+**/
+
 matrix matrix::operator*(int a) const {
     matrix res(n_);
     for (int i = 0; i < n_ * n_; ++i) {
